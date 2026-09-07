@@ -1,15 +1,56 @@
-# 07 WinAPI Isaac
+# WinAPI-Project Name
 
-WinAPI / C++ 2D 액션 학습 프로젝트입니다.
+Windows API 기반 C++ Game Client Portfolio Project
 
-원본 소스, 스프라이트, 맵 데이터는 공개하지 않습니다.
+Win32 API, Game Loop, Rendering, Input, Collision, Object Management 등
+게임 클라이언트의 기본 동작 구조를 직접 구현한 기초 엔진 프로젝트입니다.
 
-## Focus
 
-- WinAPI 윈도우 / 입력
-- 2D 스프라이트 렌더
-- 룸 전환, 탄환, 충돌의 클라이언트 루프
+---
 
-## Media
+## 🎮 Portfolio Links
 
-스크린샷과 영상은 루트 `Media/` 또는 이 README에 링크합니다.
+▶ GitHub  
+[YoungkiJeong (PolorFox321)](https://github.com/YoungkiJeong)
+
+▶ Game Development Blog  
+[홈](https://notion-blog-nextjs-ten.vercel.app/)
+
+
+---
+
+## 🎬 Gameplay & Technical Evidence
+
+### Main Videos
+
+▶ Gameplay Showcase
+
+[[YouTube Link]](https://youtu.be/QuMfp5gUsgo)
+
+
+![Uploading ChatGPT Image 2026년 9월 7일 오후 11_34_37.png…]()
+
+
+
+
+---
+
+
+# Project Overview
+
+
+## 목표
+
+WinAPI 환경에서 게임 클라이언트의 기본 구조를 직접 구현하며
+
+- Window System
+- Game Loop
+- Input Handling
+- Rendering Pipeline
+- Object Management
+- Collision System
+
+등 게임 개발의 기반이 되는 Runtime 구조를 이해하는 것을 목표로 진행했습니다.
+
+
+---
