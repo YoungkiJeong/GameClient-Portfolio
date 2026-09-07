@@ -1,10 +1,9 @@
-# WinAPI-Project Name
+# WinAPI-Isaac
 
 Windows API 기반 C++ Game Client Portfolio Project
 
 Win32 API, Game Loop, Rendering, Input, Collision, Object Management 등
 게임 클라이언트의 기본 동작 구조를 직접 구현한 기초 엔진 프로젝트입니다.
-
 
 ---
 
@@ -16,7 +15,6 @@ Win32 API, Game Loop, Rendering, Input, Collision, Object Management 등
 ▶ Game Development Blog  
 [홈](https://notion-blog-nextjs-ten.vercel.app/)
 
-
 ---
 
 ## 🎬 Gameplay & Technical Evidence
@@ -25,18 +23,11 @@ Win32 API, Game Loop, Rendering, Input, Collision, Object Management 등
 
 ▶ Gameplay Showcase
 
-[[YouTube Link]](https://youtu.be/QuMfp5gUsgo)
-
-
-<img width="1672" height="941" alt="Issac_ReadMe_Texture" src="https://github.com/user-attachments/assets/f0c3dacd-378f-4952-80b9-6cf95d0e45be" />
-
-
+[YouTube Link](https://youtu.be/QuMfp5gUsgo)
 
 ---
 
-
 # Project Overview
-
 
 ## 목표
 
@@ -50,6 +41,5 @@ WinAPI 환경에서 게임 클라이언트의 기본 구조를 직접 구현하�
 - Collision System
 
 등 게임 개발의 기반이 되는 Runtime 구조를 이해하는 것을 목표로 진행했습니다.
-
 
 ---
