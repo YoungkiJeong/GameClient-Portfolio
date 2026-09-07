@@ -1,7 +1,6 @@
-<img width="1448" height="1086" alt="PolarFoxStudio" src="https://github.com/user-attachments/assets/f3776405-3251-4b5b-8283-bdadfae79c3a" />
 # Game Client Portfolio
 
-게임 클라이언트 프로그래머 포트폴리오 저장소입니다.8e4d7af745d0" />
+게임 클라이언트 프로그래머 포트폴리오 저장소입니다.
 
 
 C++ 기반 게임 클라이언트 개발 경험을 중심으로  
@@ -18,7 +17,13 @@ Unreal Engine, DirectX, WinAPI 환경에서 진행한 프로젝트와
 - Target: Nexon (넥토리얼) Game Client Programmer
 
 
-![Uploading PolarFoxStudio.png…]()
+<img width="1448" height="1086" alt="PolarFoxStudio" src="https://github.com/user-attachments/assets/f3776405-3251-4b5b-8283-bdadfae79c3a" />
+
+
+PolarFox Studio는 개인 게임 개발 기록과 포트폴리오를 정리하기 위한 공간입니다.
+
+게임 클라이언트 개발 과정에서 경험한 시스템 설계,
+Runtime 검증, 기술 학습 내용을 기록하고 관리합니다.
 
 
 ---
@@ -37,6 +42,8 @@ Unreal Engine, DirectX, WinAPI 환경에서 진행한 프로젝트와
 
 # Featured Projects
 
+게임 클라이언트 개발 역량을 보여주는 주요 프로젝트입니다.
+
 
 | # | Project | Stack | Focus |
 |---|---|---|---|
@@ -49,14 +56,40 @@ Unreal Engine, DirectX, WinAPI 환경에서 진행한 프로젝트와
 
 # Growth Journey Projects
 
+게임 클라이언트 개발 과정에서 단계적으로 경험한 프로젝트입니다.
+
 
 | # | Project | Stack | Focus |
 |---|---|---|---|
-| 04 | [DX9 Cat Quest](Projects/05_DX9-CatQuest/README.md) | DirectX9 / C++ | 3D Gameplay Client |
-| 05 | [MFC Crazy Arcade](Projects/06_MFC-CrazyArcade/README.md) | MFC / C++ | Map Tool · Tile Workflow |
-| 06 | [WinAPI Isaac](Projects/07_WinAPI-Isaac/README.md) | WinAPI / C++ | Game Loop · Client Basics |
+| 04 | [DX9 Cat Quest](Projects/04_DX9-CatQuest/README.md) | DirectX9 / C++ | 3D Gameplay Client |
+| 05 | [MFC Crazy Arcade](Projects/05_MFC-CrazyArcade/README.md) | MFC / C++ | Map Tool · Tile Workflow |
+| 06 | [WinAPI Isaac](Projects/06_WinAPI-Isaac/README.md) | WinAPI / C++ | Game Loop · Client Basics |
 
 
 ---
 
 # Repository Structure
+
+```text
+GameClient-Portfolio
+
+├─ README.md
+│
+├─ Projects/
+│  ├─ Project README
+│  ├─ Architecture Notes
+│  ├─ Evidence Documents
+│  └─ Media References
+│
+├─ Documents/
+│  ├─ Technical Stack
+│  ├─ Development Journey
+│  ├─ Programming Philosophy
+│  └─ Contact
+│
+├─ Media/
+│  ├─ Screenshots
+│  ├─ Videos
+│  └─ Branding
+│
+└─ LICENSE
