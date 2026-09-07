@@ -1,3 +1,4 @@
+<img width="1448" height="1086" alt="PolarFoxStudio" src="https://github.com/user-attachments/assets/f3776405-3251-4b5b-8283-bdadfae79c3a" />
 # Game Client Portfolio
 
 게임 클라이언트 프로그래머 포트폴리오 저장소입니다.8e4d7af745d0" />
@@ -17,7 +18,7 @@ Unreal Engine, DirectX, WinAPI 환경에서 진행한 프로젝트와
 - Target: Nexon (넥토리얼) Game Client Programmer
 
 
-<img width="1536" height="1024" alt="PolarFoxStudio" src="https://github.com/user-attachments/assets/4303119a-04aa-456a-9205-
+![Uploading PolarFoxStudio.png…]()
 
 
 ---
