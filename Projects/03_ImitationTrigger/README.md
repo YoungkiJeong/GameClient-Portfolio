@@ -34,6 +34,10 @@ Team Integration 프로젝트입니다.
 [홈](https://notion-blog-nextjs-ten.vercel.app/)
 
 
+![Uploading ImitationTrigger_ReadMe_Texture.png…]()
+
+
+
 ---
 
 
