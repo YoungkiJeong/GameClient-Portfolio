@@ -28,8 +28,7 @@ Win32 API, Game Loop, Rendering, Input, Collision, Object Management 등
 [[YouTube Link]](https://youtu.be/QuMfp5gUsgo)
 
 
-![Uploading ChatGPT Image 2026년 9월 7일 오후 11_34_37.png…]()
-
+<img width="1672" height="941" alt="Issac_ReadMe_Texture" src="https://github.com/user-attachments/assets/f0c3dacd-378f-4952-80b9-6cf95d0e45be" />
 
 
 
