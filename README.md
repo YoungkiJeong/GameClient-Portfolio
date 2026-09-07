@@ -61,7 +61,7 @@ Runtime 검증, 기술 학습 내용을 기록하고 관리합니다.
 
 | # | Project | Stack | Focus |
 |---|---|---|---|
-| 04 | [DX9 Cat Quest](Projects/04_DX9-CatQuest/README.md) | DirectX9 / C++ | 3D Gameplay Client |
+| 04 | [DX9 Cat Quest](https://github.com/YoungkiJeong/DX9-Cat-Quest) | DirectX9 / C++ | 3D Gameplay Client · Custom Engine Framework |
 | 05 | [MFC Crazy Arcade](Projects/05_MFC-CrazyArcade/README.md) | MFC / C++ | Map Tool · Tile Workflow |
 | 06 | [WinAPI Isaac](Projects/06_WinAPI-Isaac/README.md) | WinAPI / C++ | Game Loop · Client Basics |
 
