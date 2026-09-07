@@ -1,27 +1,92 @@
-# 03 Imitation Trigger
+# ImitationTrigger
 
-네트워크 게임플레이 클라이언트 프로젝트입니다.
 
-원본 소스와 프로토콜 구현 파일은 공개하지 않습니다.  
-이 폴더는 클라이언트 네트워크 구조와 게임플레이 루프 설명, 미디어만 담습니다.
+Unreal Engine 5.5.4 C++ 기반 Multiplayer Team Project
 
-## Role
 
-- Client Network I/O 및 상태 동기화 관점 정리
-- Gameplay loop / prediction-reconciliation 범위 정의
-- 런타임 시연 자료
+Unreal Gameplay Framework 환경에서
+GAS 기반 Gameplay State와 Camera Runtime 구조를 연결한
+Team Integration 프로젝트입니다.
 
-## Folder
 
-| Path | Contents |
-|------|----------|
-| `Architecture/` | 클라이언트 시스템 개요 다이어그램 |
-| `Network/` | 패킷 흐름, 세션, 동기화 설명 |
-| `Gameplay/` | 입력, 스킬, 히트 판정 등 클라이언트 게임플레이 |
-| `Images/` | 스크린샷 |
-| `Videos/` | 멀티플레이 / 지연 보상 시연 |
+기존 Input / GAS / PawnData 구조를 분석하고,
 
-## Public Boundary
+- CameraModeStack C++ Core
+- ADS Gameplay State Integration
+- Network Debug Utility
 
-포함하지 않음: 소켓 구현 소스, 패킷 구조체 헤더, 서버 코드, 원본 에셋.  
-포함함: 흐름도, 책임 분리 설명, 캡처, 영상.
+구현을 담당했습니다.
+
+
+---
+
+
+## 🎮 Portfolio Links
+
+
+▶ GitHub
+
+[NBcampUnrealTrack/3rd_4th-Team14-CH4-Project](https://github.com/NBcampUnrealTrack/3rd_4th-Team14-CH4-Project)
+
+
+▶ Game Development Blog
+
+[홈](https://notion-blog-nextjs-ten.vercel.app/)
+
+
+---
+
+
+## 🎬 Gameplay & Technical Evidence
+
+
+### Main Videos
+
+
+▶ Multiplayer Gameplay Showcase
+
+[YouTube Link]
+
+
+▶ ADS Camera Integration Demonstration
+
+[YouTube Link]
+
+
+---
+
+
+# Project Overview
+
+
+## 목표
+
+
+Unreal Engine 5 환경에서
+팀 Gameplay Framework와 기존 Runtime 구조를 이해하고,
+
+Gameplay State와 Camera Presentation을 분리하는
+Client Integration 경험을 목표로 진행했습니다.
+
+
+주요 구현:
+
+
+- CameraModeStack C++ Runtime
+- CameraMode Selection / Execution 분리
+- GAS 기반 ADS State Integration
+- GameplayTag 기반 Input Flow 분석
+- Server / Client Debug Log Utility
+
+
+---
+
+
+# Core Contribution
+
+
+## CameraModeStack C++ Core
+
+
+RMB 입력 이후 ADS 상태가 Camera View로 연결되는 흐름을 구현했습니다.
+
