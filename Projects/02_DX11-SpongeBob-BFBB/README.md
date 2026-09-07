@@ -1,9 +1,8 @@
-# # DX11-SpongeBob-BFBB
+# DX11-SpongeBob-BFBB
 
 DirectX11 Custom Engine 기반 C++ Game Client Portfolio Project
 
 Rendering Pipeline, Gameplay System, AI, Navigation, Save/Load, Editor Tool을 직접 구현하며  
-
 게임 클라이언트 Runtime 구조와 시스템 설계 경험을 쌓은 개인 프로젝트입니다.
 
 ---
@@ -11,12 +10,10 @@ Rendering Pipeline, Gameplay System, AI, Navigation, Save/Load, Editor Tool을 �
 ## 🎮 Portfolio Links
 
 ▶ GitHub  
-
-[YoungkiJeong (PolorFox321)]([https://github.com/YoungkiJeong](https://github.com/YoungkiJeong))
+[YoungkiJeong (PolorFox321)](https://github.com/YoungkiJeong)
 
 ▶ Game Development Blog  
-
-[홈]([https://notion-blog-nextjs-ten.vercel.app/](https://notion-blog-nextjs-ten.vercel.app/))
+[홈](https://notion-blog-nextjs-ten.vercel.app/)
 
 ---
 
@@ -26,22 +23,17 @@ Rendering Pipeline, Gameplay System, AI, Navigation, Save/Load, Editor Tool을 �
 
 ▶ Full Gameplay Showcase
 
-[[YouTube Link]]([https://youtu.be/FRFSMfUKXUI?si=HX2I28fkQ7LBJErw](https://youtu.be/FRFSMfUKXUI?si=HX2I28fkQ7LBJErw))
+[YouTube Link](https://youtu.be/FRFSMfUKXUI?si=HX2I28fkQ7LBJErw)
 
-![Default0]([https://github.com/user-attachments/assets/8289855b-4140-4bf9-9c1c-ca8df45c1e95](https://github.com/user-attachments/assets/8289855b-4140-4bf9-9c1c-ca8df45c1e95))
+![Default0](https://github.com/user-attachments/assets/8289855b-4140-4bf9-9c1c-ca8df45c1e95)
 
 ---
 
-
-
 # Project Overview
-
-
 
 ## 목표
 
 DirectX11 기반 Custom Engine 환경에서  
-
 게임 클라이언트의 기본 Runtime 구조와 Gameplay System 구현 경험을 목표로 진행한 개인 프로젝트입니다.
 
 주요 구현 영역:
