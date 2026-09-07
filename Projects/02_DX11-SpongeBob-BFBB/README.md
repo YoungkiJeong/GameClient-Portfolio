@@ -1,41 +1,56 @@
-# 02 DX11 SpongeBob BFBB
+# # DX11-SpongeBob-BFBB
 
-Native C++ DirectX 11 커스텀 엔진 수직 슬라이스입니다.
+DirectX11 Custom Engine 기반 C++ Game Client Portfolio Project
 
-원본 엔진/클라이언트 소스, 셰이더 바이너리, 원본 리소스는 공개하지 않습니다.  
-이 폴더는 렌더링 파이프라인, 엔진 구조, 게임플레이 흐름에 대한 문서와 증거만 담습니다.
+Rendering Pipeline, Gameplay System, AI, Navigation, Save/Load, Editor Tool을 직접 구현하며  
 
-## Role
+게임 클라이언트 Runtime 구조와 시스템 설계 경험을 쌓은 개인 프로젝트입니다.
 
-- Custom Engine + Client 구조
-- Deferred Rendering / Shader Pipeline
-- Animation System
-- Runtime Editor / Debug 근거 자료
+---
 
-## Folder
+## 🎮 Portfolio Links
 
-| Path | Contents |
-|------|----------|
-| `Architecture/` | RenderingPipeline, EngineStructure, GameplayFlow 다이어그램 |
-| `Rendering/` | Deferred, Shader, Animation 문서 |
-| `Evidence/` | 런타임 캡처, 로그, RenderDoc 근거 |
-| `Images/` | 스크린샷 |
-| `Videos/` | 렌더링/게임플레이 시연 |
+▶ GitHub  
 
-## Architecture Diagrams (to add)
+[YoungkiJeong (PolorFox321)]([https://github.com/YoungkiJeong](https://github.com/YoungkiJeong))
 
-- `Architecture/RenderingPipeline.png`
-- `Architecture/EngineStructure.png`
-- `Architecture/GameplayFlow.png`
+▶ Game Development Blog  
 
-## Rendering Docs
+[홈]([https://notion-blog-nextjs-ten.vercel.app/](https://notion-blog-nextjs-ten.vercel.app/))
 
-- [Deferred Rendering](Rendering/DeferredRendering.md)
-- [Shader Pipeline](Rendering/ShaderPipeline.md)
-- [Animation System](Rendering/AnimationSystem.md)
+---
 
-## Public Boundary
+## 🎬 Gameplay & Technical Evidence
 
-포함하지 않음: `.sln`, `.vcxproj`, Engine/Client C++ 소스, `Resources/`, `ShaderFiles/` 원본.
+### Main Videos
 
-포함함: 파이프라인 설명, 다이어그램, 스크린샷, 영상, 검증 기록.
+▶ Full Gameplay Showcase
+
+[[YouTube Link]]([https://youtu.be/FRFSMfUKXUI?si=HX2I28fkQ7LBJErw](https://youtu.be/FRFSMfUKXUI?si=HX2I28fkQ7LBJErw))
+
+![Default0]([https://github.com/user-attachments/assets/8289855b-4140-4bf9-9c1c-ca8df45c1e95](https://github.com/user-attachments/assets/8289855b-4140-4bf9-9c1c-ca8df45c1e95))
+
+---
+
+
+
+# Project Overview
+
+
+
+## 목표
+
+DirectX11 기반 Custom Engine 환경에서  
+
+게임 클라이언트의 기본 Runtime 구조와 Gameplay System 구현 경험을 목표로 진행한 개인 프로젝트입니다.
+
+주요 구현 영역:
+
+- DirectX11 Rendering Pipeline
+- Gameplay Object Architecture
+- Enemy AI System
+- Navigation System
+- Save / Load System
+- ImGui 기반 Editor Tool
+
+이 프로젝트를 통해 게임이

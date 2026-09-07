@@ -1,38 +1,94 @@
-# 01 Rite Seekers
+# # RiteSeekers
 
-Unreal Engine Gameplay Ability System 기반 전투 파이프라인 프로젝트입니다.
+Unreal Engine 5 C++ 기반 Single Player Action RPG Gameplay Framework 프로젝트
 
-원본 소스와 에셋은 공개하지 않습니다. 이 폴더는 전투 시스템 설계와 런타임 검증 자료만 담습니다.
+Lyra Framework 구조를 분석하고 확장하여,
 
-## Role
+Gameplay Ability System(GAS) 기반 Combat, Equipment, Skill, Animation Framework를 구현한 개인 Gameplay Programming 프로젝트입니다.
 
-- Combat Pipeline 설계/구현
-- GAS Ability / Effect / Cue 흐름 정리
-- 런타임 증거 및 Negative Test 기록
+## 🎮 Portfolio Links
 
-## Folder
+▶ GitHub  
 
-| Path | Contents |
-|------|----------|
-| `Architecture/` | CombatPipeline, GASFlow, SystemOverview 다이어그램 |
-| `Evidence/` | Runtime Proof, Negative Test, Technical Verification |
-| `Images/Gameplay/` | 인게임 플레이 캡처 |
-| `Images/Screenshots/` | UI / 디버그 / 검증 캡처 |
-| `Videos/` | 전투 파이프라인 시연 영상 |
+[YoungkiJeong (PolorFox321)]([https://github.com/YoungkiJeong](https://github.com/YoungkiJeong))
 
-## Architecture Diagrams (to add)
+▶ Game Development Blog  
 
-- `Architecture/CombatPipeline.png`
-- `Architecture/GASFlow.png`
-- `Architecture/SystemOverview.png`
+[홈]([https://notion-blog-nextjs-ten.vercel.app/](https://notion-blog-nextjs-ten.vercel.app/))
 
-## Evidence Index
+## 🎬 Gameplay & Technical Evidence
 
-- [Runtime Proof](Evidence/RuntimeProof.md)
-- [Negative Test](Evidence/NegativeTest.md)
-- [Technical Verification](Evidence/TechnicalVerification.md)
+### Main Videos
 
-## Safe Claim
+▶ Inventory → Equipment → GAS Skill → Animation Layer Pipeline1.
 
-이 저장소는 설계 문서와 증거 템플릿을 제공합니다.  
-구체적인 전투 수치, 어빌리티 이름, 에셋 의존 결과는 Evidence에 런타임 자료를 추가한 뒤에만 주장합니다.
+[(https://youtu.be/HtLw4JyZ22g)](https://youtu.be/HtLw4JyZ22g)]([https://youtu.be/HtLw4JyZ22g](https://youtu.be/HtLw4JyZ22g)))
+
+▶ Inventory → Equipment → GAS Skill → Animation Layer Pipeline2.
+
+[https://youtu.be/hgbS7S4HT0A](https://youtu.be/hgbS7S4HT0A](https://youtu.be/hgbS7S4HT0A))
+
+▶ GAS 기반 Combat Relic System & Execution Pipeline
+
+[[YouTube Link]]([https://youtu.be/r5OaEf5oNvM](https://youtu.be/r5OaEf5oNvM))
+
+▶ Lyra 기반 Player-Enemy Combat Interaction 및 Hit Reaction
+
+[[[YouTube Link]]([https://youtu.be/LK7_W3umEWI)]([https://youtu.be/LK7_W3umEWI)](https://youtu.be/LK7_W3umEWI)](https://youtu.be/LK7_W3umEWI)](https://youtu.be/LK7_W3umEWI)](https://youtu.be/LK7_W3umEWI)](https://youtu.be/LK7_W3umEWI)))
+
+---
+
+
+
+# Project Overview
+
+
+
+## 목표
+
+Unreal Engine 5의 Gameplay Framework와 Lyra Sample 구조를 분석하고,
+
+이를 기반으로 확장 가능한 Gameplay System 구현을 목표로 진행했습니다.
+
+특히:
+
+- Gameplay Ability System(GAS)
+- Equipment Framework
+- AbilitySet 기반 Skill 관리
+- Animation Layer 구조
+- Combat Event Pipeline
+
+을 중심으로 실제 Gameplay Architecture를 설계했습니다.
+
+---
+
+
+
+# Development Environment
+
+| Category | Details |
+
+|---|---|
+
+| Engine | Unreal Engine 5 |
+
+| Language | C++ |
+
+| Framework | Lyra 기반 Gameplay Framework |
+
+| Ability System | Gameplay Ability System (GAS) |
+
+| IDE | Visual Studio 2022 |
+
+| Platform | Windows |
+
+---
+
+
+
+# Core Architecture
+
+
+
+## Gameplay Framework Flow
+
