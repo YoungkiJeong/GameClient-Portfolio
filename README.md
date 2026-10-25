@@ -43,7 +43,7 @@ Runtime 검증, 기술 학습 내용을 기록하고 관리합니다.
 | # | Project | Stack | Focus | Demo |
 |---|---|---|---|---|
 | 01 | [Rite Seekers](Projects/01_RiteSeekers/README.md) | Unreal Engine 5 / C++ / GAS | Gameplay Framework · Combat System | [▶ Video](https://www.youtube.com/watch?v=HtLw4JyZ22g&list=PLPu61v2j032M&index=3) |
-| 02 | [DX11 SpongeBob BFBB](Projects/02_DX11-SpongeBob-BFBB/README.md) | DirectX11 / Native C++ | Rendering Pipeline · Client Architecture | [▶ Video](https://www.youtube.com/watch?v=FRFSMfUKXUI&list=PLPu61v2j032M&index=5) |
+| 02 | [DX11 SpongeBob BFBB](Projects/02_DX11-SpongeBob-BFBB/README.md) | DirectX11 / Native C++ | Rendering Pipeline · Client Architecture | [▶ Video]([https://www.youtube.com/watch?v=FRFSMfUKXUI&list=PLPu61v2j032M&index=5](https://www.youtube.com/watch?v=1sK0lixIEeA&list=PLPu61v2j032M&index=9)) |
 | 03 | [Imitation Trigger](Projects/03_ImitationTrigger/README.md) | Unreal Engine 5 / C++ | Multiplayer · GAS · ADS · Camera Integration · Gameplay State | [▶ Video](https://www.youtube.com/watch?v=SBkoYiFFHDg) |
 
 ---
@@ -82,7 +82,7 @@ RiteSeekers의 Gameplay System이 실제 Runtime에서 연결되는 과정을 �
 
 **DirectX11 / Native C++ 3D Client**
 
-[▶ DirectX11 C++ SpongeBob BFBB](https://www.youtube.com/watch?v=FRFSMfUKXUI&list=PLPu61v2j032M&index=5)
+[▶ DirectX11 C++ SpongeBob BFBB]([https://www.youtube.com/watch?v=FRFSMfUKXUI&list=PLPu61v2j032M&index=5](https://www.youtube.com/watch?v=1sK0lixIEeA&list=PLPu61v2j032M&index=9))
 
 Native C++ / DirectX11 기반으로 제작한 3D Game Client의  
 Gameplay, Rendering, Boss Battle, Tooling 등 실제 실행 결과를 확인할 수 있습니다.
