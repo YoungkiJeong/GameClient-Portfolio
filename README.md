@@ -12,7 +12,7 @@ Unreal Engine, DirectX, WinAPI 환경에서 진행한 프로젝트와
 
 - Role: Game Client Programmer
 - Focus: Gameplay System · Rendering · Client Architecture · Engine Structure
-- Target: Nexon (넥토리얼) Game Client Programmer
+- Target: Game Client Programmer
 
 <img width="1448" height="1086" alt="PolarFoxStudio" src="https://github.com/user-attachments/assets/f3776405-3251-4b5b-8283-bdadfae79c3a" />
 
